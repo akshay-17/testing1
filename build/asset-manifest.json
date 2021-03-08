@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6bc74ea.chunk.css",
+    "main.js": "/static/js/main.fbd36d53.chunk.js",
+    "main.js.map": "/static/js/main.fbd36d53.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bfd8333c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bfd8333c.js.map",
+    "static/js/2.ca881663.chunk.js": "/static/js/2.ca881663.chunk.js",
+    "static/js/2.ca881663.chunk.js.map": "/static/js/2.ca881663.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bfec0e5a65ff782eb09ba3413221dfa7.js": "/precache-manifest.bfec0e5a65ff782eb09ba3413221dfa7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d6bc74ea.chunk.css.map": "/static/css/main.d6bc74ea.chunk.css.map",
+    "static/js/2.ca881663.chunk.js.LICENSE.txt": "/static/js/2.ca881663.chunk.js.LICENSE.txt",
+    "static/media/addcart.png": "/static/media/addcart.e8f383b4.png",
+    "static/media/contact.png": "/static/media/contact.a5074e4f.png",
+    "static/media/lcomerchlogo.png": "/static/media/lcomerchlogo.26664a8b.png",
+    "static/media/removecart.png": "/static/media/removecart.a70b45d0.png",
+    "static/media/userdashboard.jpg": "/static/media/userdashboard.49018a33.jpg",
+    "static/media/vector1.png": "/static/media/vector1.37493039.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfd8333c.js",
+    "static/js/2.ca881663.chunk.js",
+    "static/css/main.d6bc74ea.chunk.css",
+    "static/js/main.fbd36d53.chunk.js"
+  ]
+}
